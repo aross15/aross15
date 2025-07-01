@@ -3,6 +3,7 @@ Are you teaching content courses that future math teachers take?
 Take a look at these free classroom materials for Algebra, Geometry, Modeling, and Statistics from an NSF-sponsored project called MODULE(S2): modules2.com . Our materials are written in the active-learning, discussion-based format that we all want our teacher candidates to use with their future students. We focus on pre-service teachers at the secondary level (grades 6-12), helping them to develop mathematical knowledge for teaching in their upper-level content courses. Our materials have been used by 60+ faculty at 50+ universities in the US and Canada who have taught 1000+ prospective teachers and university students in university mathematics courses. Our project began through the work of the Mathematics Teacher Education Partnership (MTE-P), which seeks to create a gold standard for the preparation of secondary mathematics teachers across its over 90 member universities.
 
 Other projects I'm working on:
+* Tinker Fellowship for Concord.org's CODAP software. Adding extra multivariate capabilities like a correlation matrix and matrix-of-scatterplots (and more!) Summer 2025
 * Autophagic body simulations
 * Mars MAVEN data analysis
 
